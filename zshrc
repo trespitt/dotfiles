@@ -71,7 +71,6 @@ alias gpom="git pull origin master"
 alias gcoa="git checkout alpha"
 alias gplo="git pull origin"
 alias gploa="git pull origin alpha"
-alias gcldf="git clone git@github.com:node40/datafaucet"
 alias gwio="./gradlew idea && open datafaucet.ipr"
 
 ### GRADLE
